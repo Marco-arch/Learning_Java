@@ -1,2 +1,1 @@
-# Learning_Java
- Marco-arch/Learning_Java
+Repo to practice Java, such all relationated technologies ( Springboot, JavaFX, SQL...)
